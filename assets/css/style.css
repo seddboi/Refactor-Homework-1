@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits-division {
+.gains-division {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,23 +86,23 @@ p {
     background-color: #2589bd;
 }
 
-.benefits {
+.gains {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits h3 {
+.gains h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits img {
+.gains img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.section {
+.section-middle {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,29 +111,11 @@ p {
     color: #ffffff;
 }
 
-#search-engine-optimization img {
+.section-middle img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.section-middle h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
